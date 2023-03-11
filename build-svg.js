@@ -5,7 +5,7 @@ let got = require('got')
 let qty = require('js-quantities')
 let formatDistance = require('date-fns/formatDistance')
 
-let WEATHER_DOMAIN = 'http://dataservice.accuweather.com/locations/v1/cities/search'
+let WEATHER_DOMAIN = 'http://dataservice.accuweather.com'
 
 const emojis = {
   1: '☀️',
@@ -55,13 +55,14 @@ const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
   today
 )
 
-const psTime = formatDistance(new Date(2020, 12, 14), today, {
+const psTime = formatDistance(new Date(2023, 03, 11), today, {
   addSuffix: false,
 })
 
 // Today's weather
 const locationKey = '328328'
 let url = `forecasts/v1/daily/1day/${locationKey}?apikey=${WEATHER_API_KEY}`
+console.log(url)
 
 got(url, { prefixUrl: WEATHER_DOMAIN })
   .then((response) => {
