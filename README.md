@@ -1,15 +1,12 @@
-<!-- # 11/03/23  -->
+# 11/03/23 
 
-[![](https://raw.githubusercontent.com/ramirorichmand/ramirorichmand/main/chat.svg)](ramirorichmand@gmail.com) 
+[![](https://raw.githubusercontent.com/ramirorichmand/ramirorichmand/main/chat.svg)](ramirorichmand@gmail.com)
 
-<!-- [![](https://raw.githubusercontent.com/kulikov-dev/kulikov-dev/main/chat.svg)](https://www.linkedin.com/in/akulikov/) -->
-
-
-<!-- ## Updated ReadMe once project is done ⌛️
+## Updated ReadMe once project is done ⌛️
 
 <div style="display: flex; justify-content: center;">
   <img src="https://media.tenor.com/30FDK0gGT5MAAAAC/im-waiting-waiting.gif" alt="I am waiting GIF">
-</div> -->
+</div>
 
 
 <!-- [![](https://raw.githubusercontent.com/ramirorichmand/ramirorichmand/main/chat.svg?token=AAABPWFQB3UQVH67GAPKNRLAXLBQG)]-->
@@ -24,5 +21,4 @@ Using CSS, JavaScript, and SVG graphics, I've brought my project to life and mad
 
 Take a look and see for yourself!"
 -->
-
 
