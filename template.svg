@@ -269,14 +269,13 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-
   </g>
 
-  <!-- From London... -->
+  <!-- Work... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm based in London, UK where it’s supposed to be</text>
-    <text x="15" y="50">{degC}° C ({degF}° F) and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
+    <text x="15" y="27">I am an Equity Research Analyst.</text>
+     <text x="15" y="50">Training in Full Stack Software Engineering.</text>
   </g>
 
   <!-- typing 3 -->
@@ -294,14 +293,13 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-
   </g>
 
-  <!-- Work ... -->
+  <!-- From London... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m training in Full Stack Software Engineering. I have a background in finance,</text>
-    <text x="15" y="50">and I’ve been at  for {psTime} now.</text>
+    <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Currently I'm based in London where it’s supposed to be</text>
+    <text x="15" y="50">11° C and <tspan class="emoji">🌦</tspan> today.</text>
   </g>
 
   <!-- typing 4 -->
@@ -322,12 +320,12 @@
 
   </g>
 
-  <!-- Twitter -->
+  <!-- Gmail -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can contact me through Gmail at
-      <a xlink:href="ramirorichmand@gmail.com">ramirorichmand@gmail.com</a>
+      You can contact me via 
+      <a xlink:href="ramirorichmand@gmail.com">Gmail</a>
     </text>
   </g>
 
@@ -346,13 +344,12 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-
   </g>
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="225" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Thank you for stopping by</text>
+    <text x="15" y="27">Thanks for stopping by.</text>
   </g>
 
   <!-- typing 6 -->
@@ -375,7 +372,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="{dayBubbleWidth}" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great {todayDay}! <tspan class="emoji">👋</tspan></text>  
+    <rect width="220" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Have a great Saturday! <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>

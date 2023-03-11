@@ -63,7 +63,6 @@ const psTime = formatDistance(new Date(2023, 03, 11), today, {
 const locationKey = '328328'
 let url = `forecasts/v1/daily/1day/${locationKey}?apikey=${WEATHER_API_KEY}`
 console.log(url)
-
 got(url, { prefixUrl: WEATHER_DOMAIN })
   .then((response) => {
     console.log(response.body)
@@ -78,7 +77,6 @@ got(url, { prefixUrl: WEATHER_DOMAIN })
         return
       }
 
-      data = data.replace('{degF}', degF)
       data = data.replace('{degC}', degC)
       data = data.replace('{weatherEmoji}', emojis[icon])
       data = data.replace('{psTime}', psTime)
