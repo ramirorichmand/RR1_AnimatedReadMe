@@ -298,7 +298,7 @@
   <!-- From London... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Currently I'm based in London, UK where it is supposed</text>
+    <text x="15" y="27">Currently I'm based in London, UK where it's supposed</text>
     <text x="15" y="50">to be 11° C and <tspan class="emoji">🌦</tspan> today.</text>
   </g>
 
