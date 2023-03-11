@@ -274,8 +274,8 @@
   <!-- Work... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I am an Equity Research Analyst.</text>
-     <text x="15" y="50">Training in Full Stack Software Engineering.</text>
+    <text x="15" y="27">I am an Equity Research Analyst and currently.</text>
+     <text x="15" y="50">training within Full Stack Software Engineering <tspan class="emoji">👨‍💻</tspan></text>
   </g>
 
   <!-- typing 3 -->
@@ -298,8 +298,8 @@
   <!-- From London... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Currently I'm based in London where it’s supposed to be</text>
-    <text x="15" y="50">11° C and <tspan class="emoji">🌦</tspan> today.</text>
+    <text x="15" y="27">Currently I'm based in London where it’s supposed</text>
+    <text x="15" y="50">to be 11° C and <tspan class="emoji">🌦</tspan> today.</text>
   </g>
 
   <!-- typing 4 -->
