@@ -1,6 +1,9 @@
 <!-- # 11/03/23  -->
 
-[![](https://raw.githubusercontent.com/ramirorichmand/ramirorichmand/main/chat.svg)](ramirorichmand@gmail.com)
+[![](https://raw.githubusercontent.com/ramirorichmand/ramirorichmand/main/chat.svg)](ramirorichmand@gmail.com) 
+
+<!-- [![](https://raw.githubusercontent.com/kulikov-dev/kulikov-dev/main/chat.svg)](https://www.linkedin.com/in/akulikov/) -->
+
 
 <!-- ## Updated ReadMe once project is done ⌛️
 
