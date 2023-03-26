@@ -372,7 +372,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="230" height="42" rx="18.0355" class="bubble" />
+    <rect width="250" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Have a productive day! <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
