@@ -274,8 +274,8 @@
   <!-- Work... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I am an Equity Research Analyst.</text>
-     <text x="15" y="50">Training in Full Stack Software Engineering.</text>
+    <text x="15" y="27">I have a background in finance and am currently</text>
+     <text x="15" y="50">upskilling in Full Stack Software Engineering.</text>
   </g>
 
   <!-- typing 3 -->
