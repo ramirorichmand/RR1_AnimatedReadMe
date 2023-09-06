@@ -230,7 +230,6 @@
     </style>
   </defs>
 
-
   <!-- typing 1 -->
   <g transform="translate(10, 0)" class="typing-1">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
@@ -251,8 +250,8 @@
 
   <!-- Straight In -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="140" height="42" rx="18.0355" />
-    <text x="15" y="27">I have a background in finance and am currently</text>
+    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">📚 I have a background in finance and am currently</text>
      <text x="15" y="50">upskilling as a Full Stack Software Engineer.</text>
   </g>
 
@@ -324,7 +323,7 @@
 
  <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
+    <rect width="425" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">👻 Fun Fact: Came 2nd in a Salsa competition! </text>
   </g>
 
@@ -351,10 +350,10 @@
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       📫 How to reach me:
-      <a xlink:href="ramirorichmand@gmail.com">Gmail</a>
+      <a xlink:href="ramirorichmand@gmail.com"></a>
     </text>
   </g>
-
+<!-- Gmail beside my email in the >< -->
 
   <!-- typing 6 -->
   <g transform="translate(10, 288)" class="typing-6">
@@ -376,7 +375,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="220" height="42" rx="18.0355" class="bubble" />
+    <rect width="180" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Catch you soon!<tspan class="emoji">🙋‍♂️</tspan></text>  
   </g>
 </svg>
