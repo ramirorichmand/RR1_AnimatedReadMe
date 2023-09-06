@@ -274,7 +274,7 @@
 
   <!-- Where... -->
   <g transform="translate(10, 88)" class="msg-2">
-    <rect width="639" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="850" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">🌱 Currently based in London where you’ll find me tuning into tech events,</text>
      <text x="15" y="50">taking on coding challenges and prepping for Hackathons!</text>
   </g>
@@ -298,7 +298,7 @@
 
   <!-- Collaborate... -->
   <g transform="translate(10, 160)" class="msg-3">
-    <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">💪 I’m looking to colloborate on exciting and enriching </text>
     <text x="15" y="50">projects on all things tech.</text>
   </g>
@@ -325,9 +325,7 @@
   <g transform="translate(10, 232)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> 📫 How to reach me: ramirorichmand@gmail.com </text>
-    <!-- 📫 How to reach me: <a xlink:href="ramirorichmand@gmail.com">Gmail</a> -->
   </g>
-<!-- Gmail beside my email in the >< -->
 
   <!-- typing 5 -->
   <g transform="translate(10, 280)" class="typing-5">
