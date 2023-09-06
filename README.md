@@ -1,12 +1,6 @@
 # 11/03/23 
-## Updated ReadMe once project is done ⌛️
 
 [![](https://raw.githubusercontent.com/ramirorichmand/RR1_AnimatedReadMe/main/chat.svg)](ramirorichmand@gmail.com)
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://media.tenor.com/30FDK0gGT5MAAAAC/im-waiting-waiting.gif" alt="I am waiting GIF">
-</div>
-
 
 <!-- [![](https://raw.githubusercontent.com/ramirorichmand/ramirorichmand/main/chat.svg?token=AAABPWFQB3UQVH67GAPKNRLAXLBQG)]-->
 
