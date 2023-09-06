@@ -229,3 +229,154 @@
       }
     </style>
   </defs>
+
+
+  <!-- typing 1 -->
+  <g transform="translate(10, 0)" class="typing-1">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+
+  </g>
+
+  <!-- Straight In -->
+  <g transform="translate(10, 0)" class="msg-1 bubble">
+    <rect width="140" height="42" rx="18.0355" />
+    <text x="15" y="27">I have a background in finance and am currently</text>
+     <text x="15" y="50">upskilling as a Full Stack Software Engineer.</text>
+  </g>
+
+  <!-- typing 2 -->
+  <g transform="translate(10, 48)" class="typing-2">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Where... -->
+  <g transform="translate(10, 48)" class="msg-2">
+    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">🌱 Currently I'm based in London where you’ll often find me tuning into tech events,</text>
+     <text x="15" y="50">taking on coding challenges and prepping for Hackathons!</text>
+  </g>
+
+  <!-- typing 3 -->
+  <g transform="translate(10, 120)" class="typing-3">
+  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Collaborate... -->
+  <g transform="translate(10, 120)" class="msg-3">
+    <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">💪 I’m looking to colloborate on exciting and enriching </text>
+    <text x="15" y="50">projects on all things tech.</text>
+  </g>
+
+  <!-- typing 4 -->
+  <g transform="translate(10, 192)" class="typing-4">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+
+  </g>
+
+ <!-- Thanks -->
+  <g transform="translate(10, 240)" class="msg-5">
+    <rect width="225" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">👻 Fun Fact: Came 2nd in a Salsa competition! </text>
+  </g>
+
+
+  <!-- typing 5 -->
+  <g transform="translate(10, 240)" class="typing-5">
+  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Gmail -->
+  <g transform="translate(10, 192)" class="msg-4">
+    <rect width="513" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">
+      📫 How to reach me:
+      <a xlink:href="ramirorichmand@gmail.com">Gmail</a>
+    </text>
+  </g>
+
+
+  <!-- typing 6 -->
+  <g transform="translate(10, 288)" class="typing-6">
+  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+
+  </g>
+
+  <!-- Have a great... -->
+  <g transform="translate(10, 288)" class="msg-6">
+    <rect width="220" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Catch you soon!<tspan class="emoji">🙋‍♂️</tspan></text>  
+  </g>
+</svg>
