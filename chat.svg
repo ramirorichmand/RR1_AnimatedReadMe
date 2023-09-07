@@ -274,9 +274,9 @@
 
   <!-- Where... -->
   <g transform="translate(10, 72)" class="msg-2">
-    <rect width="610" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">🌱 Currently based in London, tuning into tech events,</text>
-     <text x="15" y="50">taking on coding challenges and prepping for Hackathons!</text>
+    <rect width="570" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">🌱 Currently in London, diving into tech events,</text>
+     <text x="15" y="50">coding challenges and gearing up for Hackathons!</text>
   </g>
 
   <!-- typing 3 -->
