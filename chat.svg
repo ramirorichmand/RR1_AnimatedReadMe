@@ -250,8 +250,8 @@
 
   <!-- Straight In -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="409" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">📚 I have a background in finance and am</text>
+    <rect width="379" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">📚 Have a background in finance and am</text>
      <text x="15" y="50">upskilling as a Full Stack Software Engineer.</text>
   </g>
 
@@ -274,7 +274,7 @@
 
   <!-- Where... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="850" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="700" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">🌱 Currently based in London, tuning into tech events,</text>
      <text x="15" y="50">taking on coding challenges and prepping for Hackathons!</text>
   </g>
@@ -298,8 +298,8 @@
 
   <!-- Collaborate... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">💪 Looking to colloborate on exciting tech projects.</text>
+    <rect width="480" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">💪 Looking to colloborate on exciting tech projects.</text>
   </g>
 
   <!-- typing 4 -->
@@ -322,8 +322,8 @@
 
    <!-- Gmail -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> 📫 How to reach me: ramirorichmand@gmail.com </text>
+    <rect width="473" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27"> 📫 You can reach me via: ramirorichmand@gmail.com </text>
   </g>
 
   <!-- typing 5 -->
@@ -346,7 +346,7 @@
 
  <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <rect width="430" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">👻 Fun Fact: Came 2nd in a Salsa competition! </text>
   </g>
 
@@ -370,7 +370,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="180" height="42" rx="18.0355" class="bubble" />
+    <rect width="190" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Catch you soon! <tspan class="emoji">🙋‍♂️</tspan></text>  
   </g>
 </svg>
