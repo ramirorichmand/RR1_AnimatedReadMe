@@ -323,7 +323,10 @@
    <!-- Gmail -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="463" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> 📫 You can reach me via: ramirorichmand@gmail.com </text>
+        <a href="mailto:ramirorichmand@gmail.com">
+        <text x="15" y="27"> 📫 You can reach me via: ramirorichmand@gmail.com </text>
+    </a>
+    <!-- <text x="15" y="27"> 📫 You can reach me via: ramirorichmand@gmail.com </text> -->
   </g>
 
   <!-- typing 5 -->
